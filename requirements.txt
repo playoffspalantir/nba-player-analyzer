@@ -1,6 +1,7 @@
+# requirements.txt
 streamlit
 pandas
-numpy
 plotly
-matplotlib
-nba-api
+numpy
+nba_api
+tenacity  # <-- ADD THIS LINE
