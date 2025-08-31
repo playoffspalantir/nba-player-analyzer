@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor="#FF4B2B"       # A vibrant, energetic orange
+backgroundColor="#1F1F1F"    # A slightly softer, premium dark background
+secondaryBackgroundColor="#2E2E2E" # Darker elements
+textColor="#FFFFFF"          # Bright white text for high contrast
+font="Roboto Condensed"      # A clean, modern, and sporty font
